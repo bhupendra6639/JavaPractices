@@ -8,6 +8,7 @@ class Input2_Number_Sum {
         System.out.println("Enter any two number for sum");
         int number1 = s1.nextInt();
         int number2 = s1.nextInt();
-        System.out.println("Sum is:" + (number1 + number2));
+        int Sum = number1 + number2;
+        System.out.println("Sum is:" + Sum);
     }
 }

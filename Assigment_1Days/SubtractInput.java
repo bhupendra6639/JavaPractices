@@ -8,6 +8,7 @@ class Subtraction {
         System.out.println("Enter any two number for substraction");
         int number1 = s1.nextInt();
         int number2 = s1.nextInt();
-        System.out.println("Subtraction  is:" + (number1 - number2));
+        int difference = number1 - number2;
+        System.out.println("Difference  is:" + difference);
     }
 }
