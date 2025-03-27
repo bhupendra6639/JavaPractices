@@ -7,6 +7,8 @@ class Vowels {
         Scanner s1 = new Scanner(System.in);
 
         System.out.print("Enter a character: ");
+        //Give any input it first take ALphabhate it conver alphabets into
+        // small letter using toLowerCase()
         char ch = s1.next().toLowerCase().charAt(0);
 
         if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {

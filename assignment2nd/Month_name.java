@@ -7,7 +7,7 @@ class Month {
         Scanner s1 = new Scanner(System.in);
         System.out.println("enter any number for Month");
         int month = s1.nextInt();
-        switch (month) {
+        switch (month) { //check month
             case 1:
                 System.out.println("January");
                 break;
