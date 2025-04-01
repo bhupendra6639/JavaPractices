@@ -6,5 +6,6 @@ class FiveTimeHellow {
         for (int i = 1; i <= number; i++) {
             System.err.println("Hellow");
         }
+      
     }
 }

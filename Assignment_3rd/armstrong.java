@@ -1,5 +1,5 @@
 
-import java.util.Scanner;//take input
+import java.util.Scanner;
 
 class Amstrong {
 

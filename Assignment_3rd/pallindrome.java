@@ -11,7 +11,7 @@ class Pallindrome {
         int temp = number;
         while (number > 0) {
             rem = number % 10;
-            rev = rev * 10 + rem;//
+            rev = rev * 10 + rem;
             number = number / 10;
         }
         if (rev == temp) {
