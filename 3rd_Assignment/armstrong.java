@@ -6,7 +6,7 @@ class Amstrong {
     public static void main(String args[]) {
         Scanner s1 = new Scanner(System.in);
         System.out.println("enter any number");
-        int number = s1.nextInt();
+        int number = s1.nextInt();git 
         int rem, sum = 0;
         int temp = number;
         while (number > 0) {
