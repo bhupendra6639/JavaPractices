@@ -8,9 +8,9 @@ class EvenOddNo {
         System.out.println("enter any number");
         int number = s1.nextInt();
         if (number % 2 == 0) {
-            System.out.println("Number is Even:-" + number);
+            System.out.println(number + ":-This Number is Even:-");
         } else {
-            System.out.println("Number is Odd:-" + number);
+            System.out.println(number + ":-This Number is Odd:-");
         }
     }
 }

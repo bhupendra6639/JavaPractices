@@ -15,9 +15,9 @@ class Pallindrome {
             number = number / 10;
         }
         if (rev == temp) {
-            System.out.println(temp + ":- number is Pallindrome");
+            System.out.println(temp + ":-  This number is Pallindrome");
         } else {
-            System.out.println(temp + ":- number  is not Pallindroe");
+            System.out.println(temp + ":- This number is not Pallindroe");
 
         }
 

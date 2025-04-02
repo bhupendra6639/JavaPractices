@@ -1,8 +1,6 @@
 
 import java.util.Scanner;
 
-
-
 class PrimeNo {
 
     public static void main(String[] args) {
@@ -19,9 +17,9 @@ class PrimeNo {
             }
         }
         if (flag == true) {
-            System.out.println(number + " :-Number is  prime");
+            System.out.println(number + " :- This Number is  prime");
         } else {
-            System.out.println(number + " :-Number is not prime");
+            System.out.println(number + " :- This Number is not prime");
 
         }
     }

@@ -15,9 +15,9 @@ class Amstrong {
             number = number / 10;
         }
         if (sum == temp) {
-            System.out.println(temp + ":- number is armstrong");
+            System.out.println(temp + ":- This number is armstrong");
         } else {
-            System.out.println(temp + ":- number  is not armstrong");
+            System.out.println(temp + ":- This number  is not armstrong");
 
         }
 
